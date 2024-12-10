@@ -1,10 +1,17 @@
-Welcome to the Big Data Lab of PolyU CPCE, a hub for cutting-edge research in large language models (LLMs). Our lab specializes in developing advanced techniques like Retrieval-Augmented Generation (RAG), multimodal LLMs, small language models (SLMs), and optimizing LLMs for mobile devices, pushing forward the capabilities of AI in understanding and generating human-like text.
+Welcome to the Big Data Lab of PolyU CPCE.
 
-🔍 **Current Focus Areas:**
-- Development of Retrieval-Augmented Generation (RAG) for enhancing information retrieval.
-- Research on Multimodal LLMs to integrate and interpret multiple forms of data.
-- Innovation in Small Language Models (SLMs) for efficient processing.
-- Optimizing LLM performance on mobile devices for on-the-go AI applications.
+🔍 **Vision:**
+
+To provide **Big Data Lab as a Service (BDLaaS)** by leveraging cloud computing, machine learning, and AI technologies.
+
+🔍 **Mission:**
+
+- To coordinate the development of infrastructure that assists CPCE academic colleagues in utilizing a data-driven approach for research.
+- To facilitate colleagues in applying for research grants using a big data approach, including estimating budgets for:
+- Big data collection and processing
+- Computing power and storage
+- Analytics and presentation tools
+
 
 📫 **Contact Us:**
 - Visit our website: [bdl.cpce-polyu.edu.hk](https://bdl.cpce-polyu.edu.hk)
